@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Principal\Classes\IA\IAStarNode.cs">
+    <Files>
+      <File FileName="Assets\Principal\Classes\IA\IAServer.cs" Line="60" Column="1" />
+      <File FileName="Assets\Principal\Classes\IA\IAMap.cs" Line="10" Column="21" />
+      <File FileName="Assets\Principal\Classes\IA\IIAMap.cs" Line="5" Column="1" />
+      <File FileName="Assets\Principal\Classes\IA\IAStarNode.cs" Line="30" Column="22" />
+      <File FileName="Assets\Principal\Classes\IA\Priority Queue.cs" Line="18" Column="3" />
+      <File FileName="Assets\Principal\Classes\Map\ILogicMap.cs" Line="8" Column="52" />
+      <File FileName="Assets\Principal\Classes\Map\LogicMap.cs" Line="146" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

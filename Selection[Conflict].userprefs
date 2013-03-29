@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Principal\Scripts\TerrainLoader\TerrainLoader.cs">
+    <Files>
+      <File FileName="Assets\Principal\Editor plugins\PluginLogicMap.cs" Line="76" Column="5" />
+      <File FileName="Assets\Principal\Scripts\TerrainLoader\TerrainLoader.cs" Line="44" Column="3" />
+      <File FileName="Assets\Principal\Scripts\Load\Load.cs" Line="12" Column="23" />
+      <File FileName="Assets\Principal\Classes\Map\LogicMap.cs" Line="114" Column="3" />
+      <File FileName="Assets\Principal\Scripts\Selection\SelectionController.cs" Line="23" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

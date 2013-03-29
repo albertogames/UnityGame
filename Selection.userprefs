@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Principal\Components\Selection\SelectionController.cs">
+    <Files>
+      <File FileName="Assets\Principal\Components\Selection\SelectionController.cs" Line="13" Column="3" />
+      <File FileName="Assets\GUI\Scripts\Interfaz\InitialMenu.cs" Line="20" Column="5" />
+      <File FileName="Assets\Principal\Classes\Communication\CommunicationServer.cs" Line="16" Column="15" />
+      <File FileName="Assets\Principal\Classes\IA\IAServer.cs" Line="90" Column="38" />
+      <File FileName="Assets\Principal\Classes\IA\IAStarNode.cs" Line="67" Column="13" />
+      <File FileName="Assets\Principal\Classes\IA\Priority Queue.cs" Line="64" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

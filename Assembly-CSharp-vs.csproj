@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{6287BEF0-7CF4-BF9F-814C-A803E2206BB8}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_3_5_5;UNITY_3_5;UNITY_EDITOR;ENABLE_PROFILER;UNITY_STANDALONE_WIN;ENABLE_GENERICS;ENABLE_DUCK_TYPING;ENABLE_TERRAIN;ENABLE_MOVIES;ENABLE_WEBCAM;ENABLE_MICROPHONE;ENABLE_NETWORK;ENABLE_CLOTH;ENABLE_WWW;ENABLE_SUBSTANCE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\GUI\Scripts\Interfaz\InitialMenu.cs" />
+     <Compile Include="Assets\GUI\Scripts\Interfaz\Interfaz.cs" />
+     <Compile Include="Assets\GUI\Scripts\Interfaz\MenuController.cs" />
+     <Compile Include="Assets\Principal\Classes\BasicMessage.cs" />
+     <Compile Include="Assets\Principal\Classes\Communication\CommunicationServer.cs" />
+     <Compile Include="Assets\Principal\Classes\IA\IAServer.cs" />
+     <Compile Include="Assets\Principal\Classes\IA\IAStarNode.cs" />
+     <Compile Include="Assets\Principal\Classes\IA\Priority Queue.cs" />
+     <Compile Include="Assets\Principal\Classes\Map\Cell.cs" />
+     <Compile Include="Assets\Principal\Classes\Map\ICell.cs" />
+     <Compile Include="Assets\Principal\Classes\Map\ILogicMap.cs" />
+     <Compile Include="Assets\Principal\Classes\Map\LogicMap.cs" />
+     <Compile Include="Assets\Principal\Classes\Map\MapServer.cs" />
+     <Compile Include="Assets\Principal\Classes\Physics\PhysicServer.cs" />
+     <Compile Include="Assets\Principal\Classes\UserVariables.cs" />
+     <Compile Include="Assets\Principal\Components\Camera\CameraController.cs" />
+     <Compile Include="Assets\Principal\Components\Load\Load.cs" />
+     <Compile Include="Assets\Principal\Components\Selection\BuildingController.cs" />
+     <Compile Include="Assets\Principal\Components\Selection\KeyboardEvents.cs" />
+     <Compile Include="Assets\Principal\Components\Selection\Selectable.cs" />
+     <Compile Include="Assets\Principal\Components\Selection\SelectionController.cs" />
+     <Compile Include="Assets\Principal\Components\Selection\SelectionControllerIA.cs" />
+     <Compile Include="Assets\Principal\Components\Unities\CRouteTo.cs" />
+     <Compile Include="Assets\Principal\Components\Unities\CWalkTo.cs" />
+     <Compile Include="Assets\Principal\Editor plugins\PluginLogicMap.cs" />
+     <Compile Include="Assets\Principal\Utils\Assert.cs" />
+     <Compile Include="Assets\Principal\Utils\Math.cs" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Basic.shader" />
+     <None Include="Assets\Resources\Standard Assets\Toon Shading\Sources\Shaders\Toony-Lighted.shader" />
+     <None Include="Assets\Resources\Standard Assets\Toon Shading\Sources\Shaders\Toony-Basic.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-BasicOutline.shader" />
+     <None Include="Assets\Resources\Standard Assets\Toon Shading\Sources\Shaders\Toony-BasicOutline.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-LightedOutline.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Lighted.shader" />
+     <None Include="Assets\Resources\Standard Assets\Toon Shading\Sources\Shaders\Toony-LightedOutline.shader" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
