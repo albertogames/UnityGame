@@ -1,0 +1,49 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Principal\Components\Load\LogLoader.cs">
+    <Files>
+      <File FileName="Assets\Principal\Classes\Communication\CommunicationServer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Principal\Components\Load\LogLoader.cs" Line="21" Column="2" />
+      <File FileName="Assets\Principal\GUI\MenuController.cs" Line="59" Column="17" />
+      <File FileName="Assets\Principal\GUI\Multiplayer.cs" Line="76" Column="1" />
+      <File FileName="Assets\Principal\GUI\Loging.cs" Line="63" Column="40" />
+      <File FileName="Assets\Principal\GUI\InitialMenu.cs" Line="30" Column="2" />
+      <File FileName="Assets\Principal\Components\Load\Load.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Assets" expanded="True">
+              <Node name="Principal" expanded="True">
+                <Node name="Classes" expanded="True">
+                  <Node name="Communication" expanded="True" />
+                </Node>
+                <Node name="Components" expanded="True">
+                  <Node name="Load" expanded="True">
+                    <Node name="LogLoader.cs" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="GUI" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets\Principal\Classes\Communication\CommunicationServer.cs" line="79" offsetX="292" offsetY="1248" expression="memoryStream" liveUpdate="False" />
+    <Watch file="Assets\Principal\Classes\Communication\CommunicationServer.cs" line="138" offsetX="260" offsetY="2192" expression="buffer" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

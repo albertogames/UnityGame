@@ -1,0 +1,88 @@
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.1422]
+    Renderer: NVIDIA GeForce GTX 670
+    Vendor:   NVIDIA
+    VRAM:     1994 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+desktop: 1842x1036 30Hz; virtual: 1842x1036 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 3.5.5f3
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\Messages.dll (this message is harmless)
+Loading C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\Messages.dll into Unity Child Domain
+Platform assembly: C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\protobuf-net.dll (this message is harmless)
+Loading C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\protobuf-net.dll into Unity Child Domain
+- Completed reload, in  0.036 seconds
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.1422]
+    Renderer: NVIDIA GeForce GTX 670
+    Vendor:   NVIDIA
+    VRAM:     1994 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+desktop: 1842x1036 30Hz; virtual: 1842x1036 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\System.dll (this message is harmless)
+Initialize engine version: 3.5.5f3
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\Messages.dll (this message is harmless)
+Loading C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\Messages.dll into Unity Child Domain
+Platform assembly: C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\protobuf-net.dll (this message is harmless)
+Loading C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\protobuf-net.dll into Unity Child Domain
+- Completed reload, in  0.037 seconds
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.1422]
+    Renderer: NVIDIA GeForce GTX 670
+    Vendor:   NVIDIA
+    VRAM:     1994 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+desktop: 1842x1036 30Hz; virtual: 1842x1036 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 3.5.5f3
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\Messages.dll (this message is harmless)
+Loading C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\Messages.dll into Unity Child Domain
+Platform assembly: C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\protobuf-net.dll (this message is harmless)
+Loading C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\protobuf-net.dll into Unity Child Domain
+- Completed reload, in  0.037 seconds
+Platform assembly: C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\System.dll (this message is harmless)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.1422]
+    Renderer: NVIDIA GeForce GTX 670
+    Vendor:   NVIDIA
+    VRAM:     1994 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+desktop: 1842x1036 30Hz; virtual: 1842x1036 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 3.5.5f3
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\Messages.dll (this message is harmless)
+Loading C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\Messages.dll into Unity Child Domain
+Platform assembly: C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\protobuf-net.dll (this message is harmless)
+Loading C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\protobuf-net.dll into Unity Child Domain
+- Completed reload, in  0.037 seconds
+Platform assembly: C:\Users\Harlan\Documents\UnityGame\Client_Data\Managed\System.dll (this message is harmless)

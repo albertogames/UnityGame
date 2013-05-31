@@ -44,11 +44,13 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\GUI\Scripts\Interfaz\InitialMenu.cs" />
-     <Compile Include="Assets\GUI\Scripts\Interfaz\Interfaz.cs" />
-     <Compile Include="Assets\GUI\Scripts\Interfaz\MenuController.cs" />
      <Compile Include="Assets\Principal\Classes\BasicMessage.cs" />
      <Compile Include="Assets\Principal\Classes\Communication\CommunicationServer.cs" />
+     <Compile Include="Assets\Principal\Classes\Communication\ICommunicationListener.cs" />
+     <Compile Include="Assets\Principal\Classes\Communication\IThread.cs" />
+     <Compile Include="Assets\Principal\Classes\Communication\Parser.cs" />
+     <Compile Include="Assets\Principal\Classes\Constants.cs" />
+     <Compile Include="Assets\Principal\Classes\Empleado.cs" />
      <Compile Include="Assets\Principal\Classes\IA\IAServer.cs" />
      <Compile Include="Assets\Principal\Classes\IA\IAStarNode.cs" />
      <Compile Include="Assets\Principal\Classes\IA\Priority Queue.cs" />
@@ -61,6 +63,8 @@
      <Compile Include="Assets\Principal\Classes\UserVariables.cs" />
      <Compile Include="Assets\Principal\Components\Camera\CameraController.cs" />
      <Compile Include="Assets\Principal\Components\Load\Load.cs" />
+     <Compile Include="Assets\Principal\Components\Load\LogLoader.cs" />
+     <Compile Include="Assets\Principal\Components\Load\MenuLoader.cs" />
      <Compile Include="Assets\Principal\Components\Selection\BuildingController.cs" />
      <Compile Include="Assets\Principal\Components\Selection\KeyboardEvents.cs" />
      <Compile Include="Assets\Principal\Components\Selection\Selectable.cs" />
@@ -69,6 +73,15 @@
      <Compile Include="Assets\Principal\Components\Unities\CRouteTo.cs" />
      <Compile Include="Assets\Principal\Components\Unities\CWalkTo.cs" />
      <Compile Include="Assets\Principal\Editor plugins\PluginLogicMap.cs" />
+     <Compile Include="Assets\Principal\GUI\Connecting.cs" />
+     <Compile Include="Assets\Principal\GUI\InitialMenu.cs" />
+     <Compile Include="Assets\Principal\GUI\Interfaz.cs" />
+     <Compile Include="Assets\Principal\GUI\Loging.cs" />
+     <Compile Include="Assets\Principal\GUI\MenuController.cs" />
+     <Compile Include="Assets\Principal\GUI\Multiplayer.cs" />
+     <Compile Include="Assets\Principal\GUI\Settings.cs" />
+     <Compile Include="Assets\Principal\GUI\SinglePlayer.cs" />
+     <Compile Include="Assets\Principal\GUI\Window.cs" />
      <Compile Include="Assets\Principal\Utils\Assert.cs" />
      <Compile Include="Assets\Principal\Utils\Math.cs" />
      <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Basic.shader" />
@@ -78,7 +91,14 @@
      <None Include="Assets\Resources\Standard Assets\Toon Shading\Sources\Shaders\Toony-BasicOutline.shader" />
      <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-LightedOutline.shader" />
      <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Lighted.shader" />
+     <None Include="Assets\Protobuf\net20\protobuf-net.xml" />
      <None Include="Assets\Resources\Standard Assets\Toon Shading\Sources\Shaders\Toony-LightedOutline.shader" />
+ <Reference Include="Messages">
+ <HintPath>Assets\Dlls\Messages.dll</HintPath>
+ </Reference>
+ <Reference Include="protobuf-net">
+ <HintPath>Assets\Protobuf\net20\protobuf-net.dll</HintPath>
+ </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -1,4 +1,4 @@
-using UnityEngine;
+/*using UnityEngine;
 using UnityEditor;
 using System.Collections;
 using System.Collections.Generic;
@@ -36,7 +36,7 @@ public class PluginLogicMap : ScriptableWizard{
 	
 	
 	void OnWizardCreate(){
-		/*if (MapServer.getInstance() == null){
+		if (MapServer.getInstance() == null){
 		
 			MapServer.Init();
 			
@@ -84,7 +84,7 @@ public class PluginLogicMap : ScriptableWizard{
 			int x;
 			x = 123;
 		}
-		*/
+		
 	}
 	
 	void OnWizardOtherButton()
@@ -103,7 +103,7 @@ public class PluginLogicMap : ScriptableWizard{
 	
 	void OnDrawGizmos(){
 			
-			/*Vector3 auxPosition = _mapPosition;
+			Vector3 auxPosition = _mapPosition;
 			auxPosition.Set(auxPosition.x,auxPosition.y + (float)0.5,auxPosition.z);
 			
 			for (int i = 0; i <= _logicMap.getTamCells().x ; i++){
@@ -119,7 +119,8 @@ public class PluginLogicMap : ScriptableWizard{
 				Debug.DrawLine(auxPosition,new Vector3(auxPosition.x,auxPosition.y,_mapUnitSize.y),Color.green,1,false);
 				auxPosition.Set (auxPosition.x + (float) _squareSize,auxPosition.y, auxPosition.z);
 			
-			}*/	
+			}	
 	}
 	
 }
+*/

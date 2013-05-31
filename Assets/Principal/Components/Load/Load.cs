@@ -33,6 +33,7 @@ public class Load : MonoBehaviour {
 		
 		
 	}
+
 	
 	void Start(){
 		/*
@@ -41,13 +42,13 @@ public class Load : MonoBehaviour {
 		_lineRenderer.SetColors(Color.white, Color.white);
 		_lineRenderer.SetWidth(0.2F, 0.2F);
 		*/	
-		byte[] message = new byte[200];
+		/*byte[] message = new byte[200];
 		
 		int bytesRead;
 		
 		ASCIIEncoding encoder = new ASCIIEncoding();
 		
-		TcpClient client  = new TcpClient ("127.0.0.1",9999);
+		TcpClient client  = new TcpClient ("192.168.1.101",9999);
 		
 		NetworkStream clientStream = client.GetStream();
 		
@@ -59,7 +60,7 @@ public class Load : MonoBehaviour {
 		
 		//message has successfully been received
 	    
-	    Debug.Log("From Server: " + encoder.GetString(message, 0, bytesRead));
+	    Debug.Log("From Server: " + encoder.GetString(message, 0, bytesRead));*/
 		
 	}
 	
@@ -69,6 +70,7 @@ public class Load : MonoBehaviour {
 		}else{
 			Instantiate(prefab,position,rotation);
 		}
+		
 	}
 	
 	void Update(){
